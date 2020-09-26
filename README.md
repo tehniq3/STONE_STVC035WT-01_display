@@ -7,6 +7,8 @@ I used info from:
 
 - https://www.stoneitech.com/application/application-note/how-to-use-commands-to-communicate-with-the-stone-display.html
 
+![real](https://1.bp.blogspot.com/-2KxWb3g28AI/X29GVkr4j_I/AAAAAAAAdNI/G1sf8EdPemUhQe551IFM1uAmS2zLAO4xACLcBGAsYHQ/s2048/real_03.jpg)
+
 
 manufacturer webpage: https://www.stoneitech.com/
 
