@@ -1,7 +1,12 @@
 # STONE_STVC035WT-01_display
 http://www.stone-hmi.com/product/278082427
 
-I used info from https://www.electronics-lab.com/project/how-to-use-stonetech-stvc035wt-01-intelligent-tft-lcd-module-with-arduino/
+I used info from:
+
+- https://www.electronics-lab.com/project/how-to-use-stonetech-stvc035wt-01-intelligent-tft-lcd-module-with-arduino/
+
+- https://www.stoneitech.com/application/application-note/how-to-use-commands-to-communicate-with-the-stone-display.html
+
 
 manufacturer webpage: https://www.stoneitech.com/
 
