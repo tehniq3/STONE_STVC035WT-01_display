@@ -16,6 +16,7 @@ Weather Station with DHT22 (AM2302):
 ![DHT22 schematic](https://1.bp.blogspot.com/-HLPVdfAkXKA/X2-K4RIhecI/AAAAAAAAdNY/8flHxf9UG1YSTVmvde_AUpA_nmXRtarHQCLcBGAsYHQ/s320/SCHEMA_DHT.png)
 
 
+
 manufacturer webpage: https://www.stoneitech.com/
 
 product page: https://www.stoneitech.com/product/by-application/industrial-type
