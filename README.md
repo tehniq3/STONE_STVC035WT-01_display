@@ -10,7 +10,7 @@ I used info from:
 ![real](https://1.bp.blogspot.com/-2KxWb3g28AI/X29GVkr4j_I/AAAAAAAAdNI/G1sf8EdPemUhQe551IFM1uAmS2zLAO4xACLcBGAsYHQ/s2048/real_03.jpg)
 
 Test Schematic:
-![test schematic](https://1.bp.blogspot.com/-JLtMgAFmunE/X2-Kp0y1S_I/AAAAAAAAdNU/BrDkrpXVzz8hXDh3m7LE2vhifUFQXE0jQCLcBGAsYHQ/s1039/SCHEMA_TEST.png)
+![test schematic](https://1.bp.blogspot.com/-JLtMgAFmunE/X2-Kp0y1S_I/AAAAAAAAdNU/BrDkrpXVzz8hXDh3m7LE2vhifUFQXE0jQCLcBGAsYHQ/s320/SCHEMA_TEST.png)
 
 Weather Station with DHT22 (AM2302):
 ![DHT22 schematic](https://1.bp.blogspot.com/-HLPVdfAkXKA/X2-K4RIhecI/AAAAAAAAdNY/8flHxf9UG1YSTVmvde_AUpA_nmXRtarHQCLcBGAsYHQ/s320/SCHEMA_DHT.png)
